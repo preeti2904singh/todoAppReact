@@ -1,0 +1,10 @@
+.inputStyle{
+    width: 50%;
+    padding: 10px 12px;
+    outline: none;
+}
+
+.submitButton{
+    border: 0;
+    padding: 12px;
+}
